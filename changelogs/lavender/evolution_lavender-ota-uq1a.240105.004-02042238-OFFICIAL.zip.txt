@@ -1,4 +1,0 @@
-- Initial A14 k4.19 build
-- CLEAN FLASH MANDATORY
-- Fixed random screen wake up issue
-- Fixed power button wake up delay
